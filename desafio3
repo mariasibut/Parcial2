@@ -1,18 +1,18 @@
-# ===== DESAFIO 06 - LISTAR 5 NÚMEROS E IMPRIMIR =====
+# ===== DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR =====
 
-# Exibe o título do programa
-print('===== DESAFIO 06 - LISTAR 5 NÚMEROS E IMPRIMIR =====')
+# Exibe o título do desafio
+print('===== DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR =====')
 
-# Cria uma lista vazia para armazenar os números
-numeros = []
+# Cria uma lista vazia para armazenar os nomes
+nomes = []
 
-# Entrada de dados: solicita 5 números ao usuário
+# Entrada de dados: solicita que o usuário digite 5 nomes
 for i in range(5):
-    valor = int(input(f'Digite o {i+1}º número: '))
-    numeros.append(valor)  # Adiciona o número à lista
+    nome = input(f'Digite o {i+1}º nome: ')
+    nomes.append(nome)  # Adiciona o nome à lista
 
-# Saída de dados: imprime cada número separadamente
-print('Números digitados:')
+# Saída de dados: imprime cada nome separadamente
+print('Nomes digitados:')
 
-for numero in numeros:
-    print(numero)
+for nome in nomes:
+    print(nome)
