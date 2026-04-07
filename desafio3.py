@@ -1,4 +1,4 @@
-# ===== DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR =====
+# ===== DESAFIO 03 - LISTAR 5 NOMES E IMPRIMIR =====
 
 # Exibe o título do desafio
 print('===== DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR =====')
