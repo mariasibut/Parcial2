@@ -1,4 +1,3 @@
-
 # Mostra o título do programa na tela
 print('DESAFIO 02 - VERIFICANDO NÚMERO PAR ')
 
