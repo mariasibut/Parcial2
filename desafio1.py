@@ -1,5 +1,3 @@
-# DESAFIO 01 - SOMANDO DOIS NÚMEROS
-
 # Exibe um título na tela
 print(' DESAFIO 01 - SOMANDO DOIS NÚMEROS ')
 
