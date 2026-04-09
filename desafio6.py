@@ -1,4 +1,4 @@
-# Exibe o título do desafio
+# Exibe o título
 print(' DESAFIO 6 - CONVERSÃO DE TEMPO ')
 
 # Escolha do tipo de conversão
