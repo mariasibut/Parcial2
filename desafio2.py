@@ -1,5 +1,6 @@
+
 # Mostra o título do programa na tela
-print('===== DESAFIO 02 - VERIFICANDO NÚMERO PAR =====')
+print('DESAFIO 02 - VERIFICANDO NÚMERO PAR ')
 
 # Pede para o usuário digitar um número = int(input('Digite um número: '))
 
