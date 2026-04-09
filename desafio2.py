@@ -1,4 +1,4 @@
-# Mostra o título do programa na tela
+# Mostra o título
 print('DESAFIO 02 - VERIFICANDO NÚMERO PAR ')
 
 # Pede para o usuário digitar um número = int(input('Digite um número: '))
