@@ -1,7 +1,5 @@
-#  DESAFIO 03 - LISTAR 5 NOMES E IMPRIMIR 
-
 # Exibe o título 
-print(' DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR ')
+print(' DESAFIO 03 - LISTAR 5 NOMES E IMPRIMIR ')
 
 # Cria uma lista vazia para armazenar os nomes
 nomes = []
