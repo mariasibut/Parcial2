@@ -1,4 +1,4 @@
-# Exibe um título na tela
+# Exibe um título
 print(' CALCULADORA SIMPLES ')
 
 # Pede que o usuário digite o primeiro número
