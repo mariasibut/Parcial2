@@ -1,7 +1,8 @@
 # Mostra o título
 print('DESAFIO 02 - VERIFICANDO NÚMERO PAR ')
 
-# Pede para o usuário digitar um número = int(input('Digite um número: '))
+# Pede para o usuário digitar um número
+numero = int(input('Digite um número: '))
 
 # Verifica se o número é par
 # O operador % calcula o resto da divisão
