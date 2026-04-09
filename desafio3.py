@@ -1,12 +1,12 @@
-# ===== DESAFIO 03 - LISTAR 5 NOMES E IMPRIMIR =====
+#  DESAFIO 03 - LISTAR 5 NOMES E IMPRIMIR 
 
-# Exibe o título do desafio
-print('===== DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR =====')
+# Exibe o título 
+print(' DESAFIO 06 - LISTAR 5 NOMES E IMPRIMIR ')
 
 # Cria uma lista vazia para armazenar os nomes
 nomes = []
 
-# Entrada de dados: solicita que o usuário digite 5 nomes
+# Entrada de dados: pede que o usuário digite 5 nomes
 for i in range(5):
     nome = input(f'Digite o {i+1}º nome: ')
     nomes.append(nome)  # Adiciona o nome à lista
