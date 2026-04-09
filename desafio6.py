@@ -1,6 +1,5 @@
-# ===== DESAFIO - CONVERSÃO DE TEMPO =====
-
-print('===== CONVERSÃO DE TEMPO =====')
+# Exibe o título do desafio
+print(' DESAFIO 6 - CONVERSÃO DE TEMPO ')
 
 # Escolha do tipo de conversão
 op = input('1: Segundos -> h/m/s | 2: h/m/s -> Segundos: ')
@@ -9,7 +8,7 @@ if op == '1':
     # Entrada: total em segundos
     s = int(input('Digite os segundos: '))
     
-    # Conversão simples usando divisão inteira e resto
+    # Conversão usando divisão inteira e resto
     h = s // 3600
     m = (s % 3600) // 60
     s = s % 60
