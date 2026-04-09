@@ -1,7 +1,7 @@
-# ===== DESAFIO 01 - SOMANDO DOIS NÚMEROS =====
+# DESAFIO 01 - SOMANDO DOIS NÚMEROS
 
 # Exibe um título na tela
-print('===== DESAFIO 01 - SOMANDO DOIS NÚMEROS =====')
+print(' DESAFIO 01 - SOMANDO DOIS NÚMEROS ')
 
 # Pede que o usuário digite o primeiro número
 n1 = int(input('Digite um valor: '))
