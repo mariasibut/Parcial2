@@ -1,7 +1,5 @@
-# ===== DESAFIO 5 - ÁREA DO TRIÂNGULO =====
-
-# Exibe o título do desafio
-print('===== DESAFIO - ÁREA DO TRIÂNGULO =====')
+# Exibe o título
+print('DESAFIO 5 - ÁREA DO TRIÂNGULO ')
 
 # Entrada de dados: solicita a base e a altura do triângulo
 base = float(input('Digite o valor da base do triângulo: '))
