@@ -1,15 +1,13 @@
-# ===== DESAFIO - CALCULADORA SIMPLES =====
-
 # Exibe um título na tela
-print('===== CALCULADORA SIMPLES =====')
+print(' CALCULADORA SIMPLES ')
 
-# Solicita que o usuário digite o primeiro número
+# Pede que o usuário digite o primeiro número
 n1 = float(input('Digite o primeiro valor: '))
 
-# Solicita que o usuário digite o segundo número
+# Pede que o usuário digite o segundo número
 n2 = float(input('Digite o segundo valor: '))
 
-# Solicita que o usuário escolha a operação desejada
+# Pede que o usuário escolha a operação desejada
 op = input('Escolha a operação (+, -, *, /): ')
 
 # Verifica qual operação foi escolhida e realiza o cálculo
